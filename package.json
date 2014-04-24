@@ -1,0 +1,27 @@
+{
+  "name": "hexo-renderer-myth",
+  "version": "0.0.1",
+  "description": "Myth renderer plugin for hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepak1556/hexo-renderer-myth"
+  },
+  "keywords": [
+    "hexo",
+    "myth",
+    "css"
+  ],
+  "author": "Robo <hop2deep@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepak1556/hexo-renderer-myth/issues"
+  },
+  "homepage": "https://github.com/deepak1556/hexo-renderer-myth",
+  "dependencies": {
+    "myth": "^0.3.4"
+  }
+}
