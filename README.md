@@ -1,4 +1,10 @@
-hexo-renderer-myth
-==================
+Myth-renderer
+=============
 
-Myth renderer for hexo
+[Myth](http://www.myth.io/) renderer for [hexo](http://hexo.io/)
+
+## Install
+
+```
+npm install --save hexo-renderer-myth
+```
